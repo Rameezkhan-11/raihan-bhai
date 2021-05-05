@@ -44,7 +44,7 @@ return(
 
                                 <Carousel.Item>
                                     <img
-                                        className="d-flex align-items-center justify-content-center min-vh-100 min-vw-100"
+                                        className="d-flex align-items-center justify-content-center max-vh-100 min-vw-100"
                                         src="https://picsum.photos/500/300?img=2"
                                         alt="Third slide"
                                     />
